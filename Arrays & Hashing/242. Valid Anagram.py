@@ -18,7 +18,7 @@ class Solution:
 
 
 """
-Initial:
+Initial
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         letters_s = {}
@@ -41,7 +41,7 @@ class Solution:
         return False
 
 
-Counter Collection:
+Counter Collection
 from collections import Counter
 
 class Solution:

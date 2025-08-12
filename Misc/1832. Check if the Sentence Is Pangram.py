@@ -14,7 +14,7 @@ class Solution:
 
 
 """
-Initial:
+Initial
 class Solution:
     def checkIfPangram(self, sentence: str) -> bool:
         letters = list("abcdefghijklmnopqrstuvwxyz")

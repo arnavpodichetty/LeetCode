@@ -16,7 +16,7 @@ class Solution:
 
 
 """
-Initial:
+Initial
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         chars = []

@@ -22,7 +22,7 @@ class Solution:
 
 
 """
-Brute Force:
+Brute Force
 class Solution:
     def mySqrt(self, x: int) -> int:        
         for i in range(x + 1):
